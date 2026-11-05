@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-bundles-and-kits-nuxt",
+  "capabilityKey": "planned:ecommerce:bundles-and-kits",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-bundles-and-kits-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/bundles-and-kits.md",
+  "presentationPlan": "projects/ecommerce/nuxt/bundles-and-kits.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
